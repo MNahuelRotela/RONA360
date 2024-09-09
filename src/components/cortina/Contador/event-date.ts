@@ -1,0 +1,1 @@
+export const EVENT_TIMESTAMP = 1724149800000 as const
