@@ -637,7 +637,7 @@ const ContenInmobiliaria = {
                 id: "r1",
                 name: "Exterior/Garaje",
                 description: "Exterior de la propiedad.",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Febbrario%20Propiedades/Leandro%20N%20Alem%203700/HQ/exterior_pano.jpg",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Febbrario%20Propiedades/Leandro%20N%20Alem%203700/SM/exterior_pano.jpg",
                 SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Febbrario%20Propiedades/Leandro%20N%20Alem%203700/SM/exterior_pano.jpg",
                 hotspots: [
                   {
