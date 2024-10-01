@@ -133,7 +133,7 @@ const VirtualTourViewer: React.FC = () => {
           <img
             src={room.SM_image_url} // Usa la imagen en miniatura (SM)
             alt={room.name}
-            className="h-full sm:h-auto xs:h-auto sm:w-20 xs:w-20  object-cover justify-center items-center rounded-md"
+            className="h-full sm:h-auto xs:h-auto sm:w-20 xs:w-20 object-cover justify-center items-center rounded-md"
           />
           <p className={`mt-2 text-base sm:text-sm xs:text-ss text-white ${currentRoomId === room.id ? 'font-bold' : 'font-normal'}`}>
             {room.name}

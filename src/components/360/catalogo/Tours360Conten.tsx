@@ -85,7 +85,7 @@ const ContenInmobiliaria = {
       //     linkedin: "https://www.linkedin.com/company/urbanestates",
       //     youtube: "https://www.youtube.com/channel/urbanestates",
       //   },
-      //   logo_url: "https://example.com/urban_estates_logo.png",
+      //   logo_url: "https://example.com/urban_estates_logo.jpg",
       //   principalColor: "#33A1FF",
       //   properties: [
       //     {
@@ -171,16 +171,16 @@ const ContenInmobiliaria = {
               balcony: false,
             },
             virtual_tour: {
-              HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/patio-delantero.png",
-              SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/patio-delantero.png",
+              HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/patio-delantero.jpg",
+              SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/patio-delantero.jpg",
             },
             rooms: [
               {
                 id: "r1",
                 name: "Exterior",
                 description: "Exterior de la propiedad.",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/exterior.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/exterior.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/exterior.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/exterior.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -204,8 +204,8 @@ const ContenInmobiliaria = {
                 id: "r2",
                 name: "Entrada",
                 description: "Entrada con Patio Delantero.",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/patio-delantero.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/patio-delantero.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/patio-delantero.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/patio-delantero.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -237,8 +237,8 @@ const ContenInmobiliaria = {
                 id: "r3",
                 name: "Entrada al Garaje",
                 description: "Entrada al Garaje",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/garage-blured.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/garage-blured.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/garaje.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/garaje.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -262,8 +262,8 @@ const ContenInmobiliaria = {
                 id: "r4",
                 name: "Sala de Estar 1",
                 description: "Entrada al Garaje",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/sala1.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/sala1.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/sala1.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/sala1.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -287,8 +287,8 @@ const ContenInmobiliaria = {
                 id: "r5",
                 name: "Sala de Estar 2",
                 description: "Sala de Estar 2",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/sala2.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/sala2.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/sala2.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/sala2.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -320,8 +320,8 @@ const ContenInmobiliaria = {
                 id: "r6",
                 name: "Sala de Estar Pasillo",
                 description: "Sala de Estar Pasillo",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/pasillo.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/pasillo.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/pasillo.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/pasillo.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -361,8 +361,8 @@ const ContenInmobiliaria = {
                 id: "r7",
                 name: "Baño Principal",
                 description: "Baño Principal",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/baño1.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/baño1.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/baño1.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/baño1.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -386,8 +386,8 @@ const ContenInmobiliaria = {
                 id: "r8",
                 name: "Dormitorio 1",
                 description: "Baño Principal",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/habitacion1.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/habitacion1.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/habitacion1.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/habitacion1.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -411,8 +411,8 @@ const ContenInmobiliaria = {
                 id: "r9",
                 name: "Dormitorio 2",
                 description: "Baño Principal",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/habitacion2.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/habitacion2.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/habitacion2.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/habitacion2.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -436,8 +436,8 @@ const ContenInmobiliaria = {
                 id: "r10",
                 name: "Cocina",
                 description: "Cocina",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/cocina.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/cocina.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/cocina.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/cocina.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -469,8 +469,8 @@ const ContenInmobiliaria = {
                 id: "r11",
                 name: "Comedor",
                 description: "Comedor",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/comedor-2.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/comedor-2.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/comedor-2.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/comedor-2.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -502,8 +502,8 @@ const ContenInmobiliaria = {
                 id: "r12",
                 name: "Patio Trasero",
                 description: "Patio Trasero",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/patio-trasero.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/patio-trasero.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/patio-trasero.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/patio-trasero.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -535,8 +535,8 @@ const ContenInmobiliaria = {
                 id: "r13",
                 name: "Quincho",
                 description: "Quincho",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/quincho.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/quincho.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/quincho.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/quincho.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -568,8 +568,8 @@ const ContenInmobiliaria = {
                 id: "r14",
                 name: "Baño 2",
                 description: "Baño 2",
-                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/HQ/baño2.png",
-                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/SM/baño2.png",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/HQ/baño2.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/PADRE%20USTARROZ%205100/SM/baño2.jpg",
                 hotspots: [
                   {
                     id: "hotspot1",
@@ -587,6 +587,404 @@ const ContenInmobiliaria = {
                   //   text: "Garaje",
                   //   targetRoom: "Garaje"
                   // }
+                ]
+              },
+            ],
+          },
+          {
+            id: "p2",
+            title: "Gutierrez 3383, Villa de Mayo | 112843",
+            description: "CASA CON JARDIN ADELANTE, COCHERA PASANTE CON AMPLIO ESPACIO GUARDA ÙTILES O DORMITORIO. ENTRAMOS A LA CASA POR EL LIVING, CON CALEFACTOR. COCINA CON ALACENA Y BAJO MESADA. DOS DORMITORIOS AMPLIOS, UNO CON PLACARD. SALIENDO DE LA COCINA ENCONTRAMOS EL LAVADERO Y EL PATIO. TODO SOBRE LOTE DE 10 X 20.95",
+            address: "Gutierrez 3383, Villa de Mayo",
+            price: "U$S 67.000",
+            type: "Casa",
+            bedrooms: "1",
+            bathrooms: "1",
+            area: "90m2",
+            property_features: {
+              garden: true,
+              garage: true,
+              pool: false,
+              terrace: true,
+              balcony: false,
+            },
+            virtual_tour: {
+              HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/patio-delantero.jpg",
+              SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/patio-delantero.jpg",
+            },
+            rooms: [
+              {
+                id: "r1",
+                name: "Exterior",
+                description: "Exterior de la propiedad.",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/entrada%20copia.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/entrada%20copia.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -5,
+                    yaw: 180,
+                    type: "custom",
+                    text: "Patio Delantero",
+                    targetRoom: "Patio Delantero"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 250,
+                    type: "custom",
+                    text: "Entrada de Vehiculos",
+                    targetRoom: "Entrada de Vehiculos"
+                  }
+                ]
+              },
+              {
+                id: "r2",
+                name: "Entrada de Vehiculos",
+                description: "Entrada de Vehiculos",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/entrada-2%20copia.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/entrada-2%20copia.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -5,
+                    yaw: 180,
+                    type: "custom",
+                    text: "Patio/Garaje",
+                    targetRoom: "Patio/Garaje"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 120,
+                    type: "custom",
+                    text: "Exterior",
+                    targetRoom: "Exterior"
+                  }
+                ]
+              },
+              {
+                id: "r3",
+                name: "Patio/Garaje",
+                description: "Patio/Garaje",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/patio-garaje.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/patio-garaje.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -15,
+                    yaw: 130,
+                    type: "custom",
+                    text: "Patio Delantero",
+                    targetRoom: "Patio Delantero"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 200,
+                    type: "custom",
+                    text: "Garaje",
+                    targetRoom: "Garaje"
+                  },
+                  {
+                    id: "hotspot3",
+                    pitch: -15,
+                    yaw: 30,
+                    type: "custom",
+                    text: "Entrada de Vehiculos",
+                    targetRoom: "Entrada de Vehiculos"
+                  }
+                ]
+              },
+              {
+                id: "r4",
+                name: "Garaje",
+                description: "Garaje",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/garaje.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/garaje.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -15,
+                    yaw: 180,
+                    type: "custom",
+                    text: "Patio 3",
+                    targetRoom: "Patio 3"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 355,
+                    type: "custom",
+                    text: "Patio/Garaje",
+                    targetRoom: "Patio/Garaje"
+                  }
+                ]
+              },
+              {
+                id: "r5",
+                name: "Patio Delantero",
+                description: "Patio Delantero",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/patio-delantero.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/patio-delantero.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -5,
+                    yaw: 155,
+                    type: "custom",
+                    text: "Sala de Estar",
+                    targetRoom: "Sala de Estar"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 230,
+                    type: "custom",
+                    text: "Patio/Garaje",
+                    targetRoom: "Patio/Garaje"
+                  },
+                  {
+                    id: "hotspot3",
+                    pitch: -15,
+                    yaw: 335,
+                    type: "custom",
+                    text: "Exterior",
+                    targetRoom: "Exterior"
+                  },
+                ]
+              },
+              {
+                id: "r6",
+                name: "Sala de Estar",
+                description: "Sala de Estar",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/sala.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/sala.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -5,
+                    yaw: 170,
+                    type: "custom",
+                    text: "Pasillo",
+                    targetRoom: "Pasillo"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 70,
+                    type: "custom",
+                    text: "Patio Delantero",
+                    targetRoom: "Patio Delantero"
+                  }
+                ]
+              },
+              {
+                id: "r7",
+                name: "Pasillo",
+                description: "Pasillo",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/pasillo.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/pasillo.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -15,
+                    yaw: 130,
+                    type: "custom",
+                    text: "Habitacion",
+                    targetRoom: "Habitacion"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 210,
+                    type: "custom",
+                    text: "Baño",
+                    targetRoom: "Baño"
+                  },
+                  {
+                    id: "hotspot3",
+                    pitch: -20,
+                    yaw: 360,
+                    type: "custom",
+                    text: "Cocina",
+                    targetRoom: "Cocina"
+                  },
+                  {
+                    id: "hotspot4",
+                    pitch: -20,
+                    yaw: 50,
+                    type: "custom",
+                    text: "Sala de Estar",
+                    targetRoom: "Sala de Estar"
+                  }
+                ]
+              },
+              {
+                id: "r8",
+                name: "Cocina",
+                description: "Cocina",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/cocina-comedor.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/cocina-comedor.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -5,
+                    yaw: 345,
+                    type: "custom",
+                    text: "Pasillo",
+                    targetRoom: "Pasillo"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 310,
+                    type: "custom",
+                    text: "Sala de Estar",
+                    targetRoom: "Sala de Estar"
+                  },
+                  {
+                    id: "hotspot3",
+                    pitch: -15,
+                    yaw: 70,
+                    type: "custom",
+                    text: "Patio/Lavadero",
+                    targetRoom: "Patio/Lavadero"
+                  },
+                ]
+              },
+              {
+                id: "r9",
+                name: "Habitacion",
+                description: "Habitacion",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/habitacion.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/habitacion.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -35,
+                    yaw: 340,
+                    type: "custom",
+                    text: "Pasillo",
+                    targetRoom: "Pasillo"
+                  },
+                ]
+              },
+              {
+                id: "r10",
+                name: "Baño",
+                description: "Baño",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/baño.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/baño.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -35,
+                    yaw: 120,
+                    type: "custom",
+                    text: "Pasillo",
+                    targetRoom: "Pasillo"
+                  },
+                ]
+              },
+              {
+                id: "r11",
+                name: "Patio/Lavadero",
+                description: "Patio/Lavadero",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/patio-lavadero.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/patio-lavadero.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -5,
+                    yaw: 180,
+                    type: "custom",
+                    text: "Patio 3",
+                    targetRoom: "Patio 3"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 250,
+                    type: "custom",
+                    text: "Cocina",
+                    targetRoom: "Cocina"
+                  }
+                ]
+              },
+              {
+                id: "r12",
+                name: "Patio 3",
+                description: "Patio 3",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/patio-3.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/patio-3.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -15,
+                    yaw: 135,
+                    type: "custom",
+                    text: "Patio/Lavadero",
+                    targetRoom: "Patio/Lavadero"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 225,
+                    type: "custom",
+                    text: "Entrada Ambiente en Construccion",
+                    targetRoom: "Entrada Ambiente en Construccion"
+                  },
+                  {
+                    id: "hotspot3",
+                    pitch: -15,
+                    yaw: 25,
+                    type: "custom",
+                    text: "Garaje",
+                    targetRoom: "Garaje"
+                  }
+                ]
+              },
+              {
+                id: "r14",
+                name: "Entrada Ambiente en Construccion",
+                description: "Entrada Ambiente en Construccion",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/entrada-ambiente.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/entrada-ambiente.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -5,
+                    yaw: 215,
+                    type: "custom",
+                    text: "Interior Ambiente en Construccion",
+                    targetRoom: "Interior Ambiente en Construccion"
+                  },
+                  {
+                    id: "hotspot2",
+                    pitch: -15,
+                    yaw: 80,
+                    type: "custom",
+                    text: "Patio 3",
+                    targetRoom: "Patio 3"
+                  }
+                ]
+              },
+              {
+                id: "r15",
+                name: "Interior Ambiente en Construccion",
+                description: "Interior Ambiente en Construccion",
+                HQ_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/HQ/ambiente.jpg",
+                SM_image_url: "https://rona360blob.blob.core.windows.net/rona360/RONA360/Lopez%20Propiedades/GUTIERREZ%203383/SM/ambiente.jpg",
+                hotspots: [
+                  {
+                    id: "hotspot1",
+                    pitch: -15,
+                    yaw: 0,
+                    type: "custom",
+                    text: "Entrada Ambiente en Construccion",
+                    targetRoom: "Entrada Ambiente en Construccion"
+                  },
                 ]
               },
             ],
